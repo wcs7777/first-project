@@ -1,1 +1,1 @@
-Just another file created in the feature-1 branch
+Just another file created in the feature-1 branch. One more edit at Github
